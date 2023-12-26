@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Intelli J-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
-<img src="https://camo.githubusercontent.com/3873ec3e7c1513b8d1ef6b039f3df34bbeb4d9d6a2ce4d642e30b50b55cb20e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="JPA" data-canonical-src="https://img.shields.io/badge/JPA-000?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">

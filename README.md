@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Intelli J-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+
+![빔](https://github.com/user-attachments/assets/6ca33ff8-0d6c-4989-b363-4178ebf5c9fa)
+![귀여운새26](https://github.com/user-attachments/assets/151d1f3b-24f2-4352-aa08-a2582a13205c)
+

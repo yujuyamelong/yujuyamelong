@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ![빔](https://github.com/user-attachments/assets/6ca33ff8-0d6c-4989-b363-4178ebf5c9fa)
 ![귀여운새26](https://github.com/user-attachments/assets/151d1f3b-24f2-4352-aa08-a2582a13205c)
+![shoes](https://github.com/user-attachments/assets/b9634376-be3c-4d1a-bff4-8a160f9c909e)
 

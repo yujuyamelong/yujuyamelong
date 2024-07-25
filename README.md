@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 ![귀여운새26](https://github.com/user-attachments/assets/151d1f3b-24f2-4352-aa08-a2582a13205c)
 ![shoes](https://github.com/user-attachments/assets/b9634376-be3c-4d1a-bff4-8a160f9c909e)
 
+![portfolio-1](https://github.com/user-attachments/assets/ec9dfa65-a9d9-42f4-98c6-e27467778c3d)
+![portfolio-2](https://github.com/user-attachments/assets/880d1b15-f762-4ee0-8cf6-0acbfef93f1a)
+![portfolio-3](https://github.com/user-attachments/assets/3c20f319-e976-4d77-ba74-53f82f44f4c0)
+![portfolio-4](https://github.com/user-attachments/assets/3e57a7f1-05e4-481b-a465-43ecdf285d84)
+![빔1](https://github.com/user-attachments/assets/f5b62b5d-cca5-4515-9416-988cb723797d)

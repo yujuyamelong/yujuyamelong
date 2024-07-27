@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 ![portfolio-4](https://github.com/user-attachments/assets/3e57a7f1-05e4-481b-a465-43ecdf285d84)
 ![빔1](https://github.com/user-attachments/assets/f5b62b5d-cca5-4515-9416-988cb723797d)
 ![바다](https://github.com/user-attachments/assets/bafc735a-a548-47ed-af6a-4b7bc286f846)
+![profile](https://github.com/user-attachments/assets/7a6b287c-aabb-432c-8a9c-fafaca7fcba8)
